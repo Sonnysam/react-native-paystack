@@ -16,10 +16,10 @@ export default function Payment() {
         billingMobile="0594602088"
         currency='GHS'
         onCancel={(e) => {
-        
+            console.log(e);
         }}
         onSuccess={(res) => {
-      
+            console.log(e);
         }}
         ref={paystackWebViewRef}
       />
