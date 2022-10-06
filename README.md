@@ -1,6 +1,5 @@
-# react-native-paystack
-A simple react native app to show how to integrate payment with paystack
-# Screens
+## A simple react native app to show how to integrate payment with paystack
+### Various Screens
 <p style="display: flex;">
 <img src="https://user-images.githubusercontent.com/80902426/194437047-a1065217-e635-4f4c-96d2-fe4f40c29d7a.jpg" width="200"  />
 <img src="https://user-images.githubusercontent.com/80902426/194437322-194e76b9-e959-4edb-becc-8df87b0ba8b7.jpg" width="200"  />
