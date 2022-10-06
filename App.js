@@ -1,11 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native';
-import logo from './components/Logo';
+import Logo from './components/Logo';
 import Payment from './components/Payment';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <logo/>
+      <Logo/>
       <Payment/>
     </View>
   );
