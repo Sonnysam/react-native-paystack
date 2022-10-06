@@ -14,6 +14,7 @@ export default function Payment() {
         amount={1}
         billingName="Samuel Agbenyo"
         billingMobile="0594602088"
+        currency='GHS'
         onCancel={(e) => {
         
         }}
